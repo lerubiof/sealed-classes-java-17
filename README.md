@@ -66,6 +66,9 @@ Las clases sealed imponen 3 reglas para poder definir las sub clases:
 
 Las clases sealed no son una alternativa a utilizar “*final*” para bloquear la herencia de ciertas clases que nos interesan sin embargo es una gran agregado dentro del lenguaje programación java que nos permiten de una manera mas sensilla tomar el control y gestionar cuales clases pueden ser derivadas de otras limitando la herencia, ampliando la accesibilidad de dichas clases y mejorando la lectura y entendimiento del código al especificar cuales son las clases que tienen permitido heredar de nuestras clases sealed.
 
+## Video explicativo
+
+https://valtechcom-my.sharepoint.com/:v:/r/personal/luis_rubio_valtech_com/Documents/sealed%20classes.mp4?csf=1&web=1&e=YAWyLu
 
 ## Referencias
 
